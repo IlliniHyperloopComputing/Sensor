@@ -6,7 +6,7 @@ from Adafruit_I2C import Adafruit_I2C
 class ADS1115_Read:
 
 #This class will be used to read
-#single convesions from the ADC
+#single conversions from the ADC
 #===============
 #The ADS1115 16-bit config register
 #Bit[15] used to start a conversion
